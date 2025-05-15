@@ -1,4 +1,4 @@
-export default function Halls() {
+export default function HallsPage() {
 
 
 
